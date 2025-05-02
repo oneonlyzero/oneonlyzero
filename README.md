@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Bug bounty<br>🤝 I’m looking for help with Bug bounty & Web Hacking Technique.<br>🌱 I’m currently learning Web Hacking<br>💬 Ask me about OSINT & DFIR<br>⚡ Fun fact I Love Cat
+🔭 Cybersec enthusiast expertise in Digital Forensic & Open Source Intelligence <br>🤝 I’m looking opportunity to grow and upskill in cybersec field<br>🌱 I’m currently learning about web vulnerability and exploitation <br>💬 Reach me for any consent or opportunity 
 
 
 ## 🏆 GitHub Trophies
